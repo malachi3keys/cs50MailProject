@@ -1,0 +1,1 @@
+Project 3 from CS50 Web Programming course. The task was to "design a front-end for an email client that makes API calls to send and receive emails." See full project description https://cs50.harvard.edu/web/2020/projects/3/mail/
