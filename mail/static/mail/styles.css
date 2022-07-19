@@ -1,0 +1,29 @@
+textarea {
+    min-height: 4rem;
+}
+
+body {
+    margin: 20px 50px;
+}
+
+.read {
+    background-color: rgb(203, 201, 201);
+}
+
+.lineprop {
+    border-bottom: 2px solid gray;
+    align-items: center;
+    padding: 5px;
+}
+
+.s-btn {
+    display: inline-block;
+}
+
+.title_block {
+    display: inline-block;
+} 
+
+.message {
+    white-space: pre;
+}
